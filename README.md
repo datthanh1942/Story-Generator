@@ -7,7 +7,7 @@ I successfully utilized the GPT-3.5 API engine to develop a chatbot capable of p
 - You can access the provided link to open the application on the website.
 - Enter the corresponding keywords to generate stories as desired.
 
-#### Chạy ngoài google colab
+#### Running outside Google Colab
 - Install the necessary libraries:
 ``` pip install openai==0.28 gradio diffusers invisible_watermark transformers accelerate safetensors ```
 - Run the code in the second cell to open the application, similar to running it on Google Colab.
