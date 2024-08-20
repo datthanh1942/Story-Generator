@@ -1,5 +1,5 @@
 # Story-Generator
-I successfully utilized the GPT-3.5 API engine to develop a chatbot capable of providing stories based on requested content, along with a feature to generate images from the stories using Diffusion, presented on the Gradio platform
+Utilize the GPT-3.5 API to generate stories based on user-selected features. Next, employ the Stable Diffusion API to create images from detailed prompts processed via the superprompt API. Finally, present all of this content within Gradio Apps. Additionally, it’s possible to explore story excerpts using the output link
 
 ### The code is designed and executed on Google Colab, so I will outline two methods to run the code:
 #### Running on Google Colab
